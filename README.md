@@ -2,8 +2,20 @@
 
 <p>
   Desenvolvedora apaixonada por tecnologia, backend e frontend. <br/>
-  Amo transformar ideias em código! 💻✨
+  Amo transformar ideias em código! 
 </p>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=samanthavf&show_icons=true&theme=jolly" alt="samanthavf GitHub stats" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanthavf&layout=compact&theme=jolly" alt="Top Languages" height="200"/>
+    </td>
+  </tr>
+</table>
+
 
 <!-- Tecnologias -->
 <h3>Tecnologias que uso:</h3>
@@ -19,11 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
 </p>
 
-
-<div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=samanthavf&show_icons=true&theme=jolly" alt="samanthavf GitHub stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanthavf&layout=compact&theme=jolly" alt="Top Languages" height="200"/>
-</div>
 
 ### 📫 Como me contatar
 
