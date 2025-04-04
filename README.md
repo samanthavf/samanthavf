@@ -1,15 +1,10 @@
 ## Olá! eu sou a Samantha Vieira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+<p>
+  Desenvolvedora apaixonada por tecnologia, backend e frontend. <br/>
+  Amo transformar ideias em código! 💻✨
+</p>
 
-
-<div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=samanthavf&show_icons=true&theme=jolly" alt="samanthavf GitHub stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanthavf&layout=compact&theme=jolly" alt="Top Languages" height="200"/>
-</div>
 <!-- Tecnologias -->
 <h3>Tecnologias que uso:</h3>
 <p>
@@ -24,13 +19,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
 </p>
 
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=samanthavf&show_icons=true&theme=jolly" alt="samanthavf GitHub stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanthavf&layout=compact&theme=jolly" alt="Top Languages" height="200"/>
+</div>
+
 ### 📫 Como me contatar
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samanthavfl3490@gmail.com)
 
 
+### 🐍 Snake com meus commits
+
+![snake gif](https://github.com/samanthavf/samanthavf/blob/output/github-contribution-grid-snake.svg)
 
 
-
-
+<p align="center">✨ Obrigada por visitar meu perfil! ✨</p>
 
