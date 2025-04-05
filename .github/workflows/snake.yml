@@ -14,11 +14,13 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Snake Animation
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
         with:
           github_user_name: samanthavf
           outputs: dist/github-contribution-grid-snake-dark.svg
-          palette: "github-dark"
+          palette: github-dark
+          color_snake: "#00FF00"
+          color_dots: "#5c5c5c,#414141,#2c2c2c,#1a1a1a,#000000"
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3
