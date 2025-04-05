@@ -39,11 +39,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samanthavfl3490@gmail.com)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samanthavf/samanthavf/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samanthavf/samanthavf/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/samanthavf/samanthavf/output/github-contribution-grid-snake.svg" />
-</picture>
+![snake_gif](https://github.com/samanthavf/samanthavf/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 <p align="center">✨ Obrigada por visitar meu perfil! ✨</p>
