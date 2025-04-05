@@ -2,8 +2,8 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" 
+  workflow_dispatch:     
 
 jobs:
   generate:
@@ -13,16 +13,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
+      - name: Generate Snake Animation (light and dark)
         uses: Platane/snk@v3
         with:
           github_user_name: samanthavf
-          outputs: dist/github-contribution-grid-snake-dark.svg
-          palette: github-dark
-          color_snake: "#00FF00"
-          color_dots: "#5c5c5c,#414141,#2c2c2c,#1a1a1a,#000000"
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to GitHub
+      - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
