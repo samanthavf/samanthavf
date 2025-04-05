@@ -45,5 +45,6 @@
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/samanthavf/samanthavf/output/github-contribution-grid-snake.svg" />
 </picture>
 
+
 <p align="center">✨ Obrigada por visitar meu perfil! ✨</p>
 
