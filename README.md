@@ -39,7 +39,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samanthavfl3490@gmail.com)
 
-![snake_gif](https://github.com/samanthavf/samanthavf/blob/output/github-contribution-grid-snake-dark.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/samanthavf/samanthavf/output/github-snake-dark.svg)
 
 
 <p align="center">✨ Obrigada por visitar meu perfil! ✨</p>
