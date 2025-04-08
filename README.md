@@ -1,4 +1,4 @@
-## Olá! eu sou a Samantha Freitas
+ ## Olá! eu sou a Samantha Freitas 💫
 
 <p>
   Desenvolvedora apaixonada por tecnologia, backend e frontend. <br/>
